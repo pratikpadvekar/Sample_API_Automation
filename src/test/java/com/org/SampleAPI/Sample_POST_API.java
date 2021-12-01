@@ -37,8 +37,8 @@ public class Sample_POST_API {
 		
 		// For headers 
 		
-//		header("Content-Type" , "application/json").
-//		contentType(ContentType.JSON).accept(ContentType.JSON).
+		header("Content-Type" , "application/json").
+		contentType(ContentType.JSON).accept(ContentType.JSON).
 //		
 			body(request.toJSONString()).
 			when().
