@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-30T12:40:01Z" name="Default suite" finished-at="2021-11-30T12:40:04Z" duration-ms="2760">
+  <suite started-at="2021-12-03T19:57:48Z" name="Default suite" finished-at="2021-12-03T19:57:49Z" duration-ms="745">
     <groups>
     </groups>
-    <test started-at="2021-11-30T12:40:01Z" name="Default test" finished-at="2021-11-30T12:40:04Z" duration-ms="2760">
-      <class name="com.org.SampleAPI.Sample_POST_API">
-        <test-method signature="test_1_Post()[pri:0, instance:com.org.SampleAPI.Sample_POST_API@291b4bf5]" started-at="2021-11-30T12:40:01Z" name="test_1_Post" finished-at="2021-11-30T12:40:04Z" duration-ms="2740" status="PASS">
+    <test started-at="2021-12-03T19:57:48Z" name="Default test" finished-at="2021-12-03T19:57:49Z" duration-ms="745">
+      <class name="Reports.ExtendReports">
+        <test-method signature="ExtendReport()[pri:0, instance:Reports.ExtendReports@6e509ffa]" started-at="2021-12-03T19:57:48Z" name="ExtendReport" finished-at="2021-12-03T19:57:49Z" duration-ms="724" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_1_Post -->
-      </class> <!-- com.org.SampleAPI.Sample_POST_API -->
+        </test-method> <!-- ExtendReport -->
+      </class> <!-- Reports.ExtendReports -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
